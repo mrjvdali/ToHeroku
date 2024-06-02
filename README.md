@@ -1,2 +1,1 @@
-# ToHeroku
-A simple redirect page to convert GitHub repo links to GitHub deploy links. this may help to avoid banning your GitHub responsibility due to unusual traffic
+<a href="https://heroku.com/deploy?template=https://github.com/mrjvdali/All-Url-Uploader.git"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku Button"></a>
